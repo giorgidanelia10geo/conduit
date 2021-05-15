@@ -1,0 +1,5 @@
+export enum TagsActionTypes {
+  GET_TAGS = 'GET_TAGS',
+  GET_TAGS_SUCCESS = 'GET_TAGS_SUCCESS',
+  GET_TAGS_FAILURE = 'GET_TAGS_FAILURE'
+}

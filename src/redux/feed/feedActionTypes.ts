@@ -1,0 +1,5 @@
+export enum FeedActionTypes {
+  GET_FEED = 'GET_FEED',
+  GET_FEED_SUCCESS = 'GET_FEED_SUCCESS',
+  GET_FEED_FAILURE = 'GET_FEED_FAILURE',
+}
